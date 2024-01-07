@@ -1,4 +1,6 @@
-# 🚀 Challenge 3 as part of #10WeeksofCloudOps - 2 tier Application using terraform 
+# 🚀 2 tier Application using terraform 
+
+![51814577-04cf-4708-a61d-7c97c444e8f8](https://github.com/durga049/-2-tier-Application-On-AWS-Using-Terraform/assets/100748026/f23e741f-d66e-4e1e-9444-133f75f49d92)
 
 
 ## 🏠 Architecture
